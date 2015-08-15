@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.31 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="EasyXml"/>
+    <comment>Logiciel d'édition de fichiers Xml en versio "Graphique" plus simple que l'édition d'un fichier xml via editeur de text.</comment>
+  </section>
+  <section name="data">
+    <explorer view="C:\Program Files\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2015-08-14 20:50" user="jsmr1" host="DESKTOP-4RVUMI1"/>
+  </section>
+  <section name="files">
+    <file name="Main.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="d2be690a8b89d5b4ac6fc695072b4e7f"/>
+    </file>
+    <file name="MainForm.pbf">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="b6777434746380626bd30471d7892a4c"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value="Main.pb"/>
+      <outputfile value="EasyXml.exe"/>
+      <compiler version="PureBasic 5.31 (Windows - x64)"/>
+      <executable value="EasyXml.exe"/>
+      <options unicode="1" xpskin="1" debug="1"/>
+      <icon enable="1">icon.ico</icon>
+    </target>
+  </section>
+</project>

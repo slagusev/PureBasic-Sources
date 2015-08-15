@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Root>
+  <array>
+    <element>
+      <nom>ID : 0qfesfsefqefqs</nom>
+      <contenu>ID : 0qefqsfqsefqse</contenu>
+      <indentation>ID : 00</indentation>
+    </element>
+    <element>
+      <nom>ID : 1qfesfsefqefqsqefsfsfeqsfesfse</nom>
+      <contenu>ID : 1qefqsfqsefqse</contenu>
+      <indentation>ID : 11</indentation>
+    </element>
+    <element>
+      <nom>ID : 2esfqesfqsfqs</nom>
+      <contenu>ID : 2fqesfsqfsfs</contenu>
+      <indentation>ID : 20</indentation>
+    </element>
+    <element>
+      <nom>ID : 3First Node</nom>
+      <contenu>ID : 3</contenu>
+      <indentation>ID : 30</indentation>
+    </element>
+  </array>
+  <nbr>3</nbr>
+</Root>
